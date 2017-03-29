@@ -192,7 +192,6 @@ NSString *const XCDYouTubeVideoUserInfoKey = @"Video";
 	if (![self isBeingPresented])
 		return;
 	
-	self.moviePlayer.controlStyle = MPMovieControlStyleFullscreen;
 	[self.moviePlayer play];
 }
 
