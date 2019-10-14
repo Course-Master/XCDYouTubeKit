@@ -1,3 +1,24 @@
+#### Version 2.8.1
+
+* Adaptation to YouTube API change. (#447, #448, #449)
+
+#### Version 2.8.0
+
+* Adaptation to YouTube API change.
+	* Deprecated `XCDYouTubeErrorRestrictedPlayback` & `XCDYouTubeErrorInvalidVideoIdentifier` use `XCDYouTubeErrorNoStreamAvailable` instead.
+
+#### Version 2.7.8
+
+* Adaptation to YouTube API change. (#443)
+
+#### Version 2.7.7
+
+* Add another player script regular expression (#438)
+
+#### Version 2.7.6
+
+* Adaptation to YouTube API change. (#437)
+
 #### Version 2.7.5
 
 * Adaptation to YouTube API change. (#433)
